@@ -1,0 +1,13 @@
+// compass
+@import "compass";  // <--
+@import "compass/functions";  // <--
+
+@import "reset";
+
+@import "variables";
+@import "common";
+
+body {
+    @include background(#eee);
+}
+
