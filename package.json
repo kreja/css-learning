@@ -19,7 +19,7 @@
     "url-loader": "~0.5.6",
     "webpack": "~1.12.2",
     "webpack-dev-server": "CodeYellowBV/webpack-dev-server#98fd2f45b4a81",
-    "node-sass": "~3.4.2",
+    "node-sass": "~4.14.1",
     "sass-loader": "~3.2.0"
   },
   "scripts": {
